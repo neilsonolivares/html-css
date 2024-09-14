@@ -1,9 +1,11 @@
 body {
+    
     margin: 0 auto;
     font-family: tahoma;
 }
 
 .topo {
+
     background-color: #fff;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -12,7 +14,13 @@ body {
 }
 
 .menu p {
+
     display: inline;
     padding: 0 4px;
     text-decoration: none;
+}
+
+.imagem-banner, .conteudo-sobre {
+
+    text-align: center;
 }
