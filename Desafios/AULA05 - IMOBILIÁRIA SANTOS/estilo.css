@@ -31,3 +31,10 @@ div, .imagem-banner, .conteudo-sobre {
     color: #1d1d1d;
     margin-bottom: 5px;
 }
+
+.conteudo-sobre h2 {
+
+    color: #1c81c0;
+    margin-top: 2px;
+    font-weight: normal;
+}
