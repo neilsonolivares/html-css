@@ -38,3 +38,8 @@ div, .imagem-banner, .conteudo-sobre {
     margin-top: 2px;
     font-weight: normal;
 }
+
+.conteudo-sobre img {
+
+    width: 450px;
+}
