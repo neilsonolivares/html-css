@@ -3,6 +3,7 @@ body {
     width: 800px;
     margin: 0 auto;
     font-family: tahoma;
+    box-sizing: border-box;
 }
 
 .topo {
