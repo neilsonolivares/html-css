@@ -13,4 +13,6 @@ body {
 
 .menu p {
     display: inline;
+    padding: 0 12px;
+    text-decoration: none;
 }
