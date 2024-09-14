@@ -7,7 +7,7 @@ body {
 
 .topo {
 
-    background-color: #fff;
+    background-color: #afddfb;
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: center;
@@ -24,6 +24,16 @@ body {
     margin-top: 15px;
     margin-bottom: 25px;
     text-align: center;
+}
+
+.topo a {
+
+    font-size: 18px;
+    color: #1d1d1d;
+    border: solid 2px #1d1d1d;
+    text-decoration: none;
+    margin: 0px 10px 0px 10px;
+
 }
 
 div, .imagem-banner, .conteudo-sobre {
