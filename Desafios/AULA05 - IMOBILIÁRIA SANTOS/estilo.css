@@ -24,7 +24,6 @@ body {
     margin-top: 15px;
     margin-bottom: 25px;
     text-align: center;
-    display: inline;
 }
 
 .topo a {
@@ -34,6 +33,7 @@ body {
     border: solid 2px #1d1d1d;
     text-decoration: none;
     margin: 0px 10px 0px 10px;
+    display: inline;
 
 }
 
