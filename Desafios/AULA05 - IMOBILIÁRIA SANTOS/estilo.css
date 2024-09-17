@@ -46,6 +46,10 @@ body {
 
 }
 
+.conteudo-sobre {
+
+    text-align: center;
+}
 .conteudo-sobre h1 {
 
     color: #1d1d1d;
@@ -63,3 +67,14 @@ body {
 
     width: 450px;
 }
+
+.conteudo-sobre span {
+
+    color: #1d80c1
+}
+
+span {
+
+    font-weight: bold;
+}
+
