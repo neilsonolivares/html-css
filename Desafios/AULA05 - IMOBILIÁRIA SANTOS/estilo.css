@@ -46,7 +46,7 @@ body {
 
 }
 
-.conteudo-sobre {
+.conteudo-sobre, .conteudo-serviço, .conteudo-corretor, .conteudo-contato  {
 
     text-align: center;
 }
