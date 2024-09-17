@@ -46,7 +46,7 @@ body {
 
 }
 
-.conteudo-sobre, .conteudo-servico, .conteudo-corretor, .conteudo-contato  {
+.conteudo-sobre
 
     text-align: center;
 }
@@ -83,6 +83,7 @@ span {
     background-color: #1d80c1;
     margin-top: 42px;
     margin-bottom: 42px;
+
 }
 
 .conteudo-servico h2 {
@@ -90,12 +91,14 @@ span {
     color: #ffffff;
     font-size: 28px;
     padding-top: 42px;
+    text-align: center;
 }
 
 .conteudo-servico p {
 
     color: #ffffff;
     font-size: 22px;
+    text-align: center;
     width: 700px;
     padding-top: 42px;
 }
@@ -113,5 +116,6 @@ span {
     text-align: left;
     font-size: 22px;
     padding-top: 42px;
+    padding-bottom: 42px;
 }
 
