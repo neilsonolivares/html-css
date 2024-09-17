@@ -46,7 +46,7 @@ body {
 
 }
 
-.conteudo-sobre, .conteudo-serviço, .conteudo-corretor, .conteudo-contato  {
+.conteudo-sobre, .conteudo-servico, .conteudo-corretor, .conteudo-contato  {
 
     text-align: center;
 }
@@ -85,20 +85,20 @@ span {
     margin-bottom: 42px;
 }
 
-.conteudo-serviço h2 {
+.conteudo-servico h2 {
 
     color: #ffffff;
     font-size: 28px;
 }
 
-.conteudo-serviço p {
+.conteudo-servico p {
 
     color: #ffffff;
     font-size: 22px;
     width: 700px;
 }
 
-.conteudo-serviço span {
+.conteudo-servico span {
 
     color: #fff81b;
 }
