@@ -81,7 +81,6 @@ span {
 .conteudo-serviço {
 
     background-color: #1d80c1;
-    display: block;
 }
 
 .conteudo-serviço h2 {
@@ -89,6 +88,7 @@ span {
     color: #ffffff;
     font-size: 28px;
     margin-top: 42px;
+    margin-bottom: 42px;
 }
 
 .conteudo-serviço p {
@@ -110,6 +110,7 @@ span {
     width: 135px;
     color: #ffffff;
     margin-top: 42px;
+    margin-bottom: 42px;
     text-align: left;
     font-size: 22px;
 }
