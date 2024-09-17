@@ -81,6 +81,7 @@ span {
 .conteudo-serviço {
 
     background-color: #1d80c1;
+    display: block;
 }
 
 .conteudo-serviço h2 {
