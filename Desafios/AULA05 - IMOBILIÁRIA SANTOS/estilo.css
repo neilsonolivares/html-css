@@ -87,7 +87,7 @@ span {
 
     color: #ffffff;
     font-size: 28px;
-    line-height: 42px;
+    margin-top: 42px;
 }
 
 .conteudo-serviço p {
@@ -95,7 +95,7 @@ span {
     color: #ffffff;
     font-size: 22px;
     text-align: center;
-    line-height: 42px;
+    margin-top: 42px;
     width: 700px;
 }
 
@@ -109,7 +109,7 @@ span {
     margin: 40px auto 40px auto;
     width: 135px;
     color: #ffffff;
-    line-height: 42px;
+    margin-top: 42px;
     text-align: left;
     font-size: 22px;
 }
