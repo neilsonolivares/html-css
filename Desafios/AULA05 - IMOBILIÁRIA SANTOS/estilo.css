@@ -89,7 +89,7 @@ span {
 
     color: #ffffff;
     font-size: 28px;
-    margin-top: 42px;
+    padding-top: 42px;
 }
 
 .conteudo-servico p {
@@ -97,7 +97,7 @@ span {
     color: #ffffff;
     font-size: 22px;
     width: 700px;
-    margin-top: 42px;
+    padding-top: 42px;
 }
 
 .conteudo-servico span {
@@ -112,6 +112,6 @@ span {
     color: #ffffff;
     text-align: left;
     font-size: 22px;
-    margin-top: 42px;
+    padding-top: 42px;
 }
 
