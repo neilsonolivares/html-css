@@ -117,10 +117,14 @@ h3 {
     color: #fff81b;
 }
 
+.paragrafo-centralizado {
+    display: inline;
+}
+
 .item-lista-servicos {
     font-size: 22px;
     line-height: 42px;
-    text-align: left;
+    text-align: center;
     color: #fff;
 }
 
