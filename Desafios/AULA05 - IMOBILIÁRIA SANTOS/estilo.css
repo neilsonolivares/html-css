@@ -119,6 +119,7 @@ h3 {
 
 .paragrafo-centralizado {
     display: inline;
+    margin: 0 auto;
 }
 
 .item-lista-servicos {
