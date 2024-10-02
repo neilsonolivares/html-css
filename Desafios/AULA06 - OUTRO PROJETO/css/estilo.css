@@ -7,6 +7,7 @@
     text-decoration: none;
 }
 .container {
+    width: 100%;
     padding: 120px 80px;
 }
 .destaque {
