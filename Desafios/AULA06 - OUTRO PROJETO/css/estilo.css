@@ -23,7 +23,7 @@ h3 {
 
 /* Início CSS Banner */
 .banner-topo {
-    background-image: url("img/banner-topo1.jpg");
+    background-image: url("/Desafios/AULA06/img/banner-topo1.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -49,7 +49,7 @@ h3 {
     border-radius: 10px;
     padding: 40px;
     margin: 70px auto 0;
-    background: #ffffff93;
+    background: #ffffffc4;
     box-shadow: 0 8px 32px #1f26875e;
 }
 .titulo-topo {
