@@ -147,15 +147,17 @@ h3 {
 
 /* Início CSS Rodapé */
 .rodape {
+    height: 40px;
     background-color: #3c184e;
     padding: 10px 0;
 }
 .text-rodape {
     color: #fff;
-    font-size: 12px;
+    font-size: 14px;
     text-align: center;
 }
 .neilson {
     font-weight: bold;
+    font-style: italic;
 }
 /* Fim CSS Rodapé */
